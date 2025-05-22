@@ -11,4 +11,6 @@ As I developed most of the code for the game, these scripts cover a wide variety
 
 To access the full private repository of the project, please contact me at gporlier97@gmail.com.
 
+Additional documents and planning materials for the project can be found in my portfolio.
+
 Link to my portfolio : https://drive.google.com/drive/folders/1j-DW03Vyb6S7vnuTGyuBwDcz5bpJFMkN?usp=drive_link
