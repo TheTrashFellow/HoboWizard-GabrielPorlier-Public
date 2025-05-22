@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 71451480ccd0f2e429cef4984a9774c3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startingAreaPrefab: {fileID: 4148117201110941790, guid: e9f4a3ffe2f7fce4ab8dd792a2e5cb72, type: 3}
+  - arenaPrefab: {fileID: 6868316318365362674, guid: 413b706f647240641b3214d05e66bd98, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

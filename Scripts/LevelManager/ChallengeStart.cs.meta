@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6f60b1135cd7e404d87e3fd93438b9a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundedEnemyPrefab: {instanceID: 0}
+  - flyingEnemyPrefab: {instanceID: 0}
+  - smallEnemyPrefab: {instanceID: 0}
+  - player: {instanceID: 0}
+  - invisibleWalls: {instanceID: 0}
+  - txtTimer: {instanceID: 0}
+  - txtHealth: {instanceID: 0}
+  - txtGold: {instanceID: 0}
+  - _roomFinishedJingle: {fileID: 8300000, guid: 26706d678dd967a40bb44449a7fdeb6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
